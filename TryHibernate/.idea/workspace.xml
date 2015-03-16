@@ -577,7 +577,7 @@
       <created>1426522964640</created>
       <option name="number" value="Default" />
       <updated>1426522964640</updated>
-      <workItem from="1426522979000" duration="6852000" />
+      <workItem from="1426522979000" duration="7376000" />
     </task>
     <task id="LOCAL-00001" summary="Configured hibernate, added DAO interfaces">
       <created>1426529270406</created>
@@ -589,7 +589,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6852000" />
+    <option name="totallyTimeSpent" value="7376000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="681" y="-3" width="1242" height="1048" extended-state="0" />
